@@ -2,7 +2,8 @@
   "name": "login-google",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://PedroPauloDias.github.io/LoginGoogle/",
+  "homepage": "  https://pedropaulodias.github.io/LoginGoogle/",
+
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.1.1",
