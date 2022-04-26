@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/LoginGoogle/static/css/main.bf4f0e46.css",
+    "main.js": "/LoginGoogle/static/js/main.62151df6.js",
+    "index.html": "/LoginGoogle/index.html",
+    "main.bf4f0e46.css.map": "/LoginGoogle/static/css/main.bf4f0e46.css.map",
+    "main.62151df6.js.map": "/LoginGoogle/static/js/main.62151df6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf4f0e46.css",
+    "static/js/main.62151df6.js"
+  ]
+}
